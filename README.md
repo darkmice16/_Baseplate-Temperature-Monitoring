@@ -75,4 +75,8 @@ Contributions to improve the Base Plate Monitoring System are welcome. Please fe
 
 ## Contact
 
+Email: richardsmanimtim@gmail.com
+LINKEDIN Profile: https://www.linkedin.com/in/richardsmanimtim/
+
+
 For questions and support, please open an issue in the GitHub repository.
