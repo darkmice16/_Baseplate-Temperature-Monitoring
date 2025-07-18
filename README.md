@@ -67,7 +67,7 @@ The system uses a configuration file (`config.ini`) for settings such as:
 
 ## License
 
-[GNU GPL v3.0 License](LICENSE)
+[MIT License](LICENSE)
 
 ## Contributing
 
