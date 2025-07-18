@@ -1,0 +1,9 @@
+ttkthemes
+pyvisa
+opencv-python
+Pillow
+matplotlib
+pandas
+openpyxl
+playsound
+jinja2
