@@ -61,7 +61,7 @@ The system uses a configuration file (`config.ini`) for settings such as:
 
 ## Requirements
 
-- Python 3.6+
+- Python 3.9+
 - GPIB interface hardware
 - Required Python packages (see requirements.txt)
 
