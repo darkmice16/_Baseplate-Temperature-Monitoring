@@ -1,6 +1,6 @@
 # Base Plate Monitoring System
 
-A Python-based system for monitoring base plate temperatures using GPIB instrumentation.
+The Base Plate Temperature Monitoring System is a Python-based GUI thermal management solution engineered for industries that demand accuracy, reliability, and automation. Designed to monitor and regulate base plate temperatures in real time using GPIB instrumentation, this system ensures optimal operating conditions and safeguards critical components from thermal stress.
 
 ## Description
 
@@ -67,7 +67,7 @@ The system uses a configuration file (`config.ini`) for settings such as:
 
 ## License
 
-[MIT License](LICENSE)
+[GNU GPL v3.0 License](LICENSE)
 
 ## Contributing
 
